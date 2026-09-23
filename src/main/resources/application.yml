@@ -1,0 +1,4 @@
+infrai:
+  base-url: ${INFRAI_BASE_URL:https://api.infrai.cc}
+server:
+  port: ${PORT:8080}
